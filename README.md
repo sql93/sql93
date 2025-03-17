@@ -21,6 +21,5 @@ I'm a highly skilled **Linux System Administrator** with a strong focus on **Dev
 📬 **Connect With Me**  
 🌍 Website: [hossam.xyz](https://hossam.xyz)  
 💼 LinkedIn: [sql-93](https://www.linkedin.com/in/sql-93)  
-🐙 GitHub: [@your-github-username](https://github.com/your-github-username)  
 
 ⚡ **"Optimizing, Securing, and Automating – One Server at a Time!"**  
